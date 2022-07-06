@@ -1,0 +1,10 @@
+#month{
+    width: 50px;
+}
+#calculator input{
+    padding: 5px;
+    margin-bottom: 10px;
+}
+#calculator select{
+    width: 196px;
+}
